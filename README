@@ -1,0 +1,27 @@
+// FastLED "100-lines-of-code" demo reel, showing just a few
+// of the kinds of animation patterns you can quickly and easily
+// compose using FastLED.
+//
+// This example also shows one easy way to define multiple
+// animations patterns and have them automatically rotate.
+//
+// -Mark Kriegsman, December 2014
+
+this was made to show a 100 line demo reel. 
+
+It also uses Lowpower.h from Rocketscream which is as its name, a Low Power library for some arduinos
+
+Devices Supported for low power mode:
+
+ATMega88
+ATMega168
+ATMega168P
+ATMega328P
+ATMega32U4
+ATMega644P
+ATMega1284P
+ATMega2560
+ATMega256RFR2
+ATSAMD21G18A
+
+#include <LowPower.h> // https://github.com/rocketscream/Low-Power
